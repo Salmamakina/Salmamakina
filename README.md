@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Salma Makina</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Salmamakina.Salmamakina">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Salma+Makina...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<h5 align="center">
 <h3 align="center">My name is Salma Makina , I'm a Computer Science Student and I'm passionate about machine learning , deep learning , computer vision and NLP</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
