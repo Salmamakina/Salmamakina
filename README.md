@@ -5,18 +5,10 @@
   </a>
 </h1>
 <h5 align="center">
-<h3 align="center">My name is Salma Makina , I'm a Computer Science Student and I'm passionate about machine learning , deep learning , computer vision and NLP</h3>
+<h3 align="center">I am a third-year Software Engineering student at ENSI with hands-on experience in mobile development, web development, DevOps, and Artificial Intelligence. Passionate about cloud technologies, AWS, and CI/CD pipelines</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmamakina&label=Profile%20views&color=0e75b6&style=flat" alt="salmamakina" /> </p>
-
-- 🌱 I’m currently learning **Pytorch and tensorflow for computervision, data analytics, NLP , and ReactJs Django on the side !**
-
-- 📫 How to reach me **salma.makinaa2557@gmail.com**
-
-- 📄 Active membre in OSSEC
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
